@@ -1,4 +1,4 @@
-<img src="https://ih1.redbubble.net/image.1790444441.2714/flat,128x,075,f-pad,128x128,f8f8f8.jpg" width="150" height="125"/>
+<img src="https://ih1.redbubble.net/image.1790444441.2714/flat,128x,075,f-pad,128x128,f8f8f8.jpg" width="165" height="155"/>
 
 # Music Generator
 
