@@ -42,7 +42,7 @@ We can’t simply feed the model with midi files because it wouldn’t understan
 Keras gives us the flexibility to be able to build a model that can handle the note and duration prediction simultaneously.
 I used a Long short-term memory (LSTM) model that is a special kind of recurrent neural network , which is capable of learning long-term dependencies and it‘s able to recognise and encode long-term patterns.
 
-4 - Training the model:
+4 - Train the model:
 
 Be Aware that LSTM models take a lot time for training, in my case it took 8 to 9 hours to train 75 midi songs.
 
