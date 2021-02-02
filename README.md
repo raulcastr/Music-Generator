@@ -1,4 +1,4 @@
-<img src="https://ih1.redbubble.net/image.1790444441.2714/flat,128x,075,f-pad,128x128,f8f8f8.jpg" width="165" height="155"/>
+<img src="https://at-cdn-s01.audiotool.com/2015/01/28/documents/QobKwUz0okv59WyViwqQPJp60xKtR52/0/cover256x256-900f9c37c5b74d9b84d602453493686f.jpg" width="165" height="155"/>
 
 # Music Generator
 
@@ -13,12 +13,12 @@ Raul Castrillo Martínez
 
 ## Project Description
 
-The idea is to create a model that is able to learn from and predict the sequential structure of music and also be able to choose from a discrete set of possibilities for subsequent notes.
+Recurrent Neural Network model (LSTM) that is able to learn and predict the sequential structure of music and to choose from a discrete set of possibilities for subsequent notes, in other words: generates monophonic melodies.
 
 
 ## Dataset
 
-~ 70 midi songs from bach : http://www.jsbach.net/midi/
+~ 70 midi songs from Johan Sebastian Bach : http://www.jsbach.net/midi/
 
 
 ## Future Work
